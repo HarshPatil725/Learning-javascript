@@ -1,0 +1,1 @@
+console.log("Hello JS !!! Welcome to my smol world.")
